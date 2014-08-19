@@ -1,0 +1,28 @@
+{
+  "name": "express-cgi-simplistic",
+  "version": "0.0.0",
+  "description": "A very simple nodejs CGI server using express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/express.js",
+    "test":  "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitdivine/express-cgi-simplistic.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expess",
+    "cgi"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitdivine/express-cgi-simplistic/issues"
+  },
+  "homepage": "https://github.com/bitdivine/express-cgi-simplistic",
+  "dependencies": {
+    "express": "^4.8.5"
+  }
+}
